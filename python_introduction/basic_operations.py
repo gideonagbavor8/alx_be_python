@@ -1,4 +1,4 @@
-# Basic Arithmetic Exercise
+# Introduction to Python: Basic Arithmetic Exercise
 number1 = 10
 number2 = 5
 
