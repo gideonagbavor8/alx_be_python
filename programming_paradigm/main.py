@@ -11,7 +11,7 @@ def main():
 
     result = safe_divide(numerator, denominator)
     if isinstance(result, float):
-        print(f"The result of the division is {result}")
+        print(f"The result of the division is {result:.2f}")
     else:
         print(result)
 
