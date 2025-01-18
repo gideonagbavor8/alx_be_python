@@ -10,10 +10,7 @@ def main():
     denominator = sys.argv[2]
 
     result = safe_divide(numerator, denominator)
-    if isinstance(result, float):
-        print(f"The result of the division is {result:.2f}")
-    else:
-        print(result)
+    print(f"The result of the divisi is {result:.1f}")
 
 if __name__ == "__main__":
     main()
